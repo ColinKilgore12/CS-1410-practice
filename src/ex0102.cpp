@@ -8,6 +8,6 @@ int main(){
 
     f = 9.0 * c / 5.0 + 32;
     cout << "Temperature in Farenheit: " << f << endl;
-    
-    return 0
+
+    return 0;
 }
